@@ -1,0 +1,4 @@
+interface:
+  display_name: "中英文自然表达"
+  short_description: "优化中英文文档的逻辑与表达，减少空话、重复和翻译腔，保留事实与文体"
+  default_prompt: "请使用 $humanize-docs 优化当前文档，自动匹配语言与文体，保留事实、术语和引用，去除空话、重复及模板化表达，只交付可直接使用的最终正文或文件。"
